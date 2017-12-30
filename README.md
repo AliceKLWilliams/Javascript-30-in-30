@@ -8,3 +8,4 @@ Contains:
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
 5. Flex Panels Image Gallery
+6. Ajax Type Ahead
