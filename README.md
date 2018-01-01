@@ -14,3 +14,4 @@ Contains:
 9. Dev Tool Domination
 10. Hold Shift to Check Multiple Checkboxes
 11. Custom HTML5 Video Player
+12. Key Sequence Detection
