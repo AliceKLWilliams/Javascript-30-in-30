@@ -15,3 +15,4 @@ Contains:
 10. Hold Shift to Check Multiple Checkboxes
 11. Custom HTML5 Video Player
 12. Key Sequence Detection
+13. Slide in on Scroll
