@@ -24,4 +24,5 @@ Contains:
 19. Unreal Webcam Fun
 20. Native Speech Recognition
 21. Geolocation based Speedometer and Compass
-23. Follow Along Links
+22. Follow Along Links
+23. Speech Synthesis
