@@ -32,3 +32,4 @@ Contains:
 27. Click and Drag to Scroll
 28. Video Speed Controller UI
 29. Countdown Clock
+30. Whack a Mole
